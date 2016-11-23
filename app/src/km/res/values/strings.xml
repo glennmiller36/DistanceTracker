@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Distance Tracker [KM]</string>
+    <string name="unit_abbreviation">KM</string>
+</resources>
